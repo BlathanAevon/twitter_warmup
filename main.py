@@ -101,7 +101,7 @@ if __name__ == '__main__':
             send_message_otc(current_otc)
 
             logger.success('Работа успешно завершена!')
-            time.sleep(3700)
+        time.sleep(3700)
 
     print('\nPress Any Key To Exit..')
     exit()
