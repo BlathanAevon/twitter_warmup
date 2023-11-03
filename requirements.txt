@@ -1,0 +1,6 @@
+telethon
+better-automation==1.1.0
+aiohttp-socks
+better-proxy
+python-dotenv
+loguru
