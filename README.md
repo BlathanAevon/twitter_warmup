@@ -49,9 +49,13 @@ To set up the project, follow these steps:
 
 ## Config files
 in `msg.txt` - put the message which you want to be sent to telegram chats
+
 in `chats.txt` - put chats names without @ or t.me
+
 in `tokens.txt` - put tokens of twitter profiles
+
 in `proxies.txt` - put proxies in format `socks5://user:password:ip:port`
+
 in `.env` - put the data from `https://my.telegram.org/apps`
 
 
