@@ -7,9 +7,7 @@ automate the telegram you-to-you subscription and following back
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Usage](#run)
 
 
 ## Prerequisites
@@ -59,7 +57,7 @@ in `proxies.txt` - put proxies in format `socks5://user:password:ip:port`
 in `.env` - put the data from `https://my.telegram.org/apps`
 
 
-# RUN
+## RUN
 ```python
 python main.py
 ```
