@@ -22,11 +22,13 @@ To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/BlathanAevon/twitter_warmup.git
+   ```
+   ```bash
    cd twitter_warmup
    ```
 2. Create a `venv` (virtual environment):
   ```bash
-  pythhon (or python3) -m venv venv
+  python (or python3) -m venv venv
   ```
 
   **Identify your system!**
