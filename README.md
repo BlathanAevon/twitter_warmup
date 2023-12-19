@@ -12,7 +12,6 @@ automate the telegram you-to-you subscription and following back
 
 ## Prerequisites
 
-List any prerequisites or dependencies that users need to have before they can use your project. For example:
 - Python 3.11 (*IMPORTANT!*)
 - A virtual environment tool (e.g., `virtualenv`, `venv`, or `conda`)
 
